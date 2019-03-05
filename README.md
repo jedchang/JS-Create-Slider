@@ -6,6 +6,4 @@
 - **`querySelectorAll()`** - JS 原生 DOM 選取器
 - **`className`** - JS 中的 Class Name 操作
 
-[DEMO](https://jedchang.github.io/JS-Create-Slider/)
-
 ![images](https://github.com/jedchang/JS-Create-Slider/blob/master/preview.jpg)
