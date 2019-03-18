@@ -3,7 +3,7 @@
 ![image](https://img.shields.io/badge/JavaScript-exercise-brightgreen.svg)
 ![image](https://img.shields.io/badge/SASS-exercise-ff69b4.svg)
 
-![images](https://github.com/jedchang/toDoList/blob/master/preview.jpg)
+![images](https://github.com/jedchang/JS-Create-Slider/blob/master/preview.jpg)
 
 ### 定義資料
 
