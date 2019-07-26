@@ -1,9 +1,8 @@
 # JS-Create-Slider
 
-![image](https://img.shields.io/badge/JavaScript-exercise-brightgreen.svg)
-![image](https://img.shields.io/badge/SASS-exercise-ff69b4.svg)
+![image](https://img.shields.io/badge/JavaScript-exercise-F0DB4F.svg) ![image](https://img.shields.io/badge/SCSS-exercise-CD6799.svg)
 
-![images](https://github.com/jedchang/JS-Create-Slider/blob/master/preview.jpg)
+![image](https://github.com/jedchang/JS-Create-Slider/blob/master/preview.jpg)
 
 ### 定義資料
 
